@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 My name is Duy Anh<br>Im a student in HaNoi<br>I want to be  a dev <br>I like learning Japanese 🌸<br>Hope you have a great day 🐳
+# Hi, I’m Duy Anh   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro"><br>Im a student in HaNoi<br>I want to be  a dev <br>I like learning Japanese 🌸<br>Hope you have a great day 🐳
 
 
 ## 🌐 Socials:
