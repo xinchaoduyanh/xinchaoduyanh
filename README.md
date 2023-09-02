@@ -1,6 +1,10 @@
-# 💫 About Me:
-# Hi, I’m Duy Anh   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro"><br>Im a student in HaNoi<br>I want to be  a dev <br>I like learning Japanese 🌸<br>Hope you have a great day 🐳
+# 💫 About Me:<img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
+<br>Hi, I’m Duy Anh   
+<br>Im a student in HaNoi 👾
+<br>My goal is to become a software engineer 🤡
+<br>I like learning Japanese 🌸<br>Hope you have a great day 🐳
 
+<img src="https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="totoro">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danhvuvu192) 
