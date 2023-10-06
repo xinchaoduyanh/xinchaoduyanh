@@ -1,4 +1,5 @@
 # 💫 About Me:<img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>Hi, I’m Duy Anh   
 <br>Im a student in HaNoi 👾
 <br>My goal is to become a software engineer 🤡
