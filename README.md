@@ -3,6 +3,8 @@
 <br>👨‍💻Hi, I’m Duy Anh.<br>
 <br>😁I'm a student from Hanoi with a passion for technology and software engineering. 🎓👾<br>
 <br>😉Currently, I am honing my skills as a full-stack developer, primarily working with TypeScript, while also delving into the world of Golang. My enthusiasm for cutting-edge technologies drives me to continuously explore and embrace new advancements. Coding is not just a job for me; it's a passion that I can indulge in for hours on end.<br>
+<br>[You might want to check my CV here 🤩](https://github.com/xinchaoduyanh/Cv/blob/main/1.md)<br>
+
 <br>💌You can connect with me on Facebook or LeetCode. Looking ahead, I aspire to broaden my expertise in cloud computing, CI/CD, system design, blockchain, and ultimately evolve into a versatile and well-rounded software engineer. 🌐🚀<br>
 <br>🥺Hope you have a fantastic day! 🐳❤️🌸
 
