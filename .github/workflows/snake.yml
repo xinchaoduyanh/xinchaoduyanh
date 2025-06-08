@@ -10,21 +10,40 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # 👇 THÊM 2 DÒNG NÀY VÀO
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
 
       - uses: platane/snk@v3
         with:
+          # github user name to read the contribution graph from (**required**)
+          # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
-          # Dòng dưới đây tạo ra 2 file ảnh: 1 cho theme sáng, 1 cho theme tối
+
+          # list of files to generate.
+          # one file per line. Each output can be customized with options as query string.
+          #
+          #  outputs: |
+          #    dist/github-contribution-grid-snake.svg
+          #    dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          #    dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # push the content of <build_dir> to a branch
+      # The branch will be created if it doesn't exist
       - name: Push to a branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
+          # target branch
           target_branch: output
+          # build directory
           build_dir: dist
         env:
+          # @see https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
